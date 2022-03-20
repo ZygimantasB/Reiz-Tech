@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zygimantas\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\1 assignment\2 assignment\obj\Debug\2 assignment.csproj.CoreCompileInputs.cache
